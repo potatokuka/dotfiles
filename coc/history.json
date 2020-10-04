@@ -1,0 +1,29 @@
+{
+  "lists": {
+    "%2FUsers%2Fgreed%2F": {
+      "config%2Fnvim": [
+        ":q:q"
+      ]
+    },
+    "%2FUsers%2Fgreed%2FVelociraptor%2Fminishell": [
+      "j:q"
+    ]
+  },
+  "explorerActions": {
+    "%2FUsers%2Fgreed%2FVelociraptor%2Fminishell": [
+      ":q:q:q",
+      ":q"
+    ],
+    "%2FUsers%2Fgreed%2Fintra%2Fcub3d": [
+      " e:q"
+    ],
+    "%2FUsers%2Fgreed%2FVelociraptor%2FCpp": [
+      ":q:q:dank"
+    ]
+  },
+  "diagnostics": {
+    "%2FUsers%2Fgreed%2FVelociraptor%2Fminishell": [
+      ":q"
+    ]
+  }
+}

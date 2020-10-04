@@ -1,0 +1,7 @@
+explorer
+python.setInterpreter
+python.enableLinting
+clangd.update
+clangd.switchSourceHeader
+clangd.install
+editor.action.organizeImport
